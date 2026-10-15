@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120mm" height="120mm">
+  <!-- Floating Cute Heart Above Head -->
+  <path d="M88 22 
+           C88 17, 81 14, 78 19 
+           C75 14, 68 17, 68 22 
+           C68 29, 78 34, 78 36 
+           C78 34, 88 29, 88 22 Z" 
+        fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Chubby Rounded Starboy Body -->
+  <path d="M56 20 
+           L69 44 L96 48 L76 67 L81 94 
+           L56 81 L31 94 L36 67 L16 48 L43 44 Z" 
+        fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Happy ^ ^ Eyes -->
+  <path d="M42 58 L46 53 L50 58" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 58 L66 53 L70 58" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Cute Cat-Style Smile (w) -->
+  <path d="M50 64 Q53 68 56 64 Q59 68 62 64" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Cheek Blush Dashes -->
+  <path d="M37 63 L40 63 M72 63 L75 63" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Mini 4-Point Y2K Sparkle (Left) -->
+  <path d="M22 24 Q22 32 14 32 Q22 32 22 40 Q22 32 30 32 Q22 32 22 24 Z" 
+        fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

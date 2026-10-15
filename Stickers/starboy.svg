@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 228" width="200mm" height="228mm">
+  <!-- Outer Tamagotchi Egg Frame (Thick PCB-safe stroke) -->
+  <path d="M100 12 
+           C52 12, 24 62, 24 118 
+           C24 162, 56 184, 100 184 
+           C144 184, 176 162, 176 118 
+           C176 62, 148 12, 100 12 Z" 
+        fill="none" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Top Keychain Loop Cutout Ring -->
+  <circle cx="100" cy="12" r="6" fill="#FFFFFF" stroke="#000000" stroke-width="5"/>
+
+  <!-- Egg Screen Cutout / Inner Border -->
+  <rect x="48" y="48" width="104" height="88" rx="14" 
+        fill="none" stroke="#000000" stroke-width="5"/>
+
+  <!-- 3 Classic Tamagotchi Buttons at Bottom of Egg -->
+  <circle cx="72" cy="158" r="7" fill="#000000"/>
+  <circle cx="100" cy="164" r="7" fill="#000000"/>
+  <circle cx="128" cy="158" r="7" fill="#000000"/>
+
+  <!-- "Starboy" Mascot Inside Screen -->
+  <path d="M100 58 
+           L110 78 L132 81 L116 96 L120 118 
+           L100 107 L80 118 L84 96 L68 81 L90 78 Z" 
+        fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Starboy Eyes & Grin -->
+  <circle cx="91" cy="89" r="3.5" fill="#000000"/>
+  <circle cx="109" cy="89" r="3.5" fill="#000000"/>
+  <path d="M95 96 Q100 101 105 96" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Pixel Sparkles Inside Screen -->
+  <path d="M60 64 H68 M64 60 V68" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M132 64 H140 M136 60 V68" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Hardware Badge Outer Frame -->
+  <rect x="28" y="192" width="144" height="26" rx="5" 
+        fill="none" stroke="#000000" stroke-width="5"/>
+
+  <!-- Pure Vector Path Letters: "STARBOY" (EDA-Safe, No Font Required) -->
+  <g fill="none" stroke="#000000" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- S -->
+    <path d="M57 199 H47 V205 H57 V211 H47"/>
+    <!-- T -->
+    <path d="M63 199 H73 M68 199 V211"/>
+    <!-- A -->
+    <path d="M79 211 V202 L84 199 L89 202 V211 M79 206 H89"/>
+    <!-- R -->
+    <path d="M95 211 V199 H103 C106 199 106 205 103 205 H95 M100 205 L105 211"/>
+    <!-- B -->
+    <path d="M111 199 V211 H119 C122 211 122 205 119 205 H111 M111 199 H118 C121 199 121 205 118 205"/>
+    <!-- O -->
+    <path d="M127 199 H137 V211 H127 Z"/>
+    <!-- Y -->
+    <path d="M143 199 L148 205 L153 199 M148 205 V211"/>
+  </g>
+</svg>
