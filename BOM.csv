@@ -1,0 +1,18 @@
+Item,Qty (Store MOQ Pcs),Order Unit / Pack,Supplier,Base Price (INR),Tax / Extra Charges (INR),Total (INR),Cost/item (USD),Total Cost (USD),Tax & Fee Notes,link
+Seeed Studio XIAO ESP32C3 Microcontroller Board,1,1 unit (MOQ: 1),Robu.in,879.0,0.0,879.0,$9.48,$9.48,Incl. 18% GST (SKU: 1341432),https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/
+0.96 Inch I2C OLED Display Module (4-Pin Blue),1,1 unit (MOQ: 1),Robu.in,179.0,0.0,179.0,$1.93,$1.93,Incl. 18% GST (SKU: R190597),https://robu.in/product/4pin-oled-display-module-blue-color/
+MPU6050 6-Axis Motion Tracking Sensor Module (ROBODUINO),1,1 unit (MOQ: 1),Amazon India,239.0,0.0,239.0,$2.58,$2.58,Incl. 18% GST; Free shipping listing on Amazon.in,https://www.amazon.in/s?k=ROBODUINO+MPU6050+6-Axis+Motion+Tracking
+DHT11 Digital Temperature & Humidity Sensor Module (3-Pin Breakout),1,1 unit (MOQ: 1),Robu.in,59.0,0.0,59.0,$0.64,$0.64,Incl. 18% GST (SKU: 28586); verify 3-pin vs 4-pin PCB footprint,https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/
+Mechanical MX Switches (Gateron G Pro Yellow 2.0 Pre-Lubed),10,1 pack of 10 pcs (MOQ: 10),Cosmic Byte,200.0,0.0,200.0,$0.22,$2.16,Incl. GST; smallest MX switch pack MOQ (Outemu Blue 20-pack is Rs 220),https://www.thecosmicbyte.com/
+PBT Blank Keycaps for MX Switches (1.8mm Thick XDA Blank),108,1 set of 108 keys (MOQ: 108),CuriosityCaps,1299.0,0.0,1299.0,$0.13,$14.02,Taxes included; prepaid avoids COD fee,https://curiositycaps.in/products/108-blank-thick-xda-pbt-keycaps
+10K Ohm Resistor (1/4W 5% Tolerance),100,1 pack of 100 pcs (MOQ: 100),Amazon India,135.0,0.0,135.0,$0.0146,$1.46,Incl. 18% GST; Free shipping listing on Amazon.in,https://www.amazon.in/s?k=10k+Ohm+Resistor+1%2F4W+5%25+Pack+of+100
+PCB1 - Custom 2-Layer FR-4 PCB (up to 100x100mm),3,1 batch of 3 PCBs (MOQ: 3),INDiPCB,699.0,125.82,824.82,$2.97,$8.90,Store MOQ is 3 PCBs (Rs 699) + 18% GST (Rs 125.82). Extra boards Rs 150 + 18% GST each.,https://indipcb.com/order
+Additional Charge - Amazon India Marketplace Fee,1,Per order,Amazon India,5.0,0.0,5.0,$0.05,$0.05,"Flat Rs 5 marketplace fee per Amazon.in order (incl. tax, applies to Prime too)",https://www.amazon.in/
+Shipping - Robu.in Standard Delivery,1,1 shipment,Robu.in,0.0,0.0,0.0,$0.00,$0.00,Free standard shipping on orders >= Rs 999 (cart is Rs 1117). Blue Dart Air is Rs 99.,https://robu.in/
+Shipping - Amazon India Standard Delivery,1,1 shipment,Amazon India,0.0,0.0,0.0,$0.00,$0.00,Free shipping on both listed items (cart Rs 374; non-Prime on non-free items under Rs 499 adds Rs 40).,https://www.amazon.in/
+Shipping - Cosmic Byte Standard Delivery,1,1 shipment,Cosmic Byte,0.0,0.0,0.0,$0.00,$0.00,Free prepaid shipping across India (4-8 days).,https://www.thecosmicbyte.com/
+Shipping - CuriosityCaps Standard Delivery,1,1 shipment,CuriosityCaps,0.0,0.0,0.0,$0.00,$0.00,Free prepaid shipping on all listed items (2-5 days metro); COD carries extra fee.,https://curiositycaps.in/policies/shipping-policy
+Shipping - INDiPCB Surface Delivery (incl. 18% GST),1,1 shipment,INDiPCB,79.0,14.22,93.22,$1.01,$1.01,Surface Rs 79 + 18% GST (Rs 14.22) = Rs 93.22 (5-7 working days). Air is Rs 149 + 18% GST = Rs 175.82.,https://indipcb.com/order
+SUBTOTAL - PARTS (INCL. GST),225,8 BOM lines,All Suppliers,3689.0,125.82,3814.82,,$41.16,Converted at 1 USD = Rs 92.6805,
+TOTAL SHIPPING & PLATFORM FEES,,All stores,All 5 Stores,84.0,14.22,98.22,,$1.06,Prepaid standard shipping + Rs 5 Amazon marketplace fee + 18% GST on INDiPCB shipping,
+GRAND TOTAL (PARTS + FEES + SHIPPING),,,All Suppliers,3773.0,140.04,3913.04,,$42.22,"For 5-pc PCB batch instead of 3-pc MOQ, add Rs 354.00 ($3.82 incl. GST)",
