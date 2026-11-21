@@ -1,5 +1,9 @@
-# 21-11-2026: Full One Shot Journal Starboy
-
+---
+title: "starboy"
+author: "Chef-Deep"
+description: "Full One Shot Journal Starboy"
+created_at: "2026-11-21"
+---
 **A Hack Club's Half Life program's fun Project.**
 
 
@@ -68,4 +72,4 @@ now comes the coding part i've added some cool expressions in it along with some
 and he'll blink every few seconds too, he's got a happy face, a munching face, a dizzy face when you shake it too much, sleepy eyes in nap reaction, sad when joy score drops from a certain number, surprised eyes when you'll tilt it!! waddle walk, snack time, tippy-tap happy dance, tilt sliding, spontaneous idle quirks, and also some cute particles too, like hearts when he is loved, Zzz when he is sleepy, floaty musical notes, dizzy stars when he gets dizzy, a question mark bubble when he's curious, checkout the starboy.ino for the code
 <img width="1882" height="1008" alt="arduino" src="https://github.com/user-attachments/assets/b97efa07-0cfe-4404-943e-1d969ea78448" />
 
-**Total time spent: 7h**
+**Total time spent: 7 hours**
