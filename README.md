@@ -4,6 +4,7 @@ author: "Chef-Deep"
 description: "Full One Shot Journal Starboy"
 created_at: "2026-11-21"
 ---
+"7h 15m"
 **A Hack Club's Half Life program's fun Project.**
 
 
@@ -73,3 +74,4 @@ and he'll blink every few seconds too, he's got a happy face, a munching face, a
 <img width="1882" height="1008" alt="arduino" src="https://github.com/user-attachments/assets/b97efa07-0cfe-4404-943e-1d969ea78448" />
 
 **Total time spent: 7 hours**
+"7h 15m"
